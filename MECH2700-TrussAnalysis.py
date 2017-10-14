@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-A linear algebra calculator to determine the external load applied
-to a truss when given the axial strain of a specific member.
+Example code for MECH2700
+A linear algebra calculator to determine the stresses on a truss. 
 
 @author:  Alex Muirhead
 @date:    Wed Oct 11 19:51:13 2017
 @title:   LinearSolver
-@version: 1.0.1
+@version: 1.1.2
 @python:  3.6.1
 """
 
