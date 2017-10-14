@@ -10,4 +10,5 @@ and forces between nodes can be analysed in both x- and y- components. Each equa
 can be represented as a row in a matrix, as shown in the comments. 
 
 Python :  3.6.1
+
 Version : 1.1.2
